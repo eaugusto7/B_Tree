@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1497231609 source:/home/edaugusto/Documentos/eduardoaugusto/main.cpp
+	<iostream>
+	"btree.h"
+	"Serializable.h"
+	"Cabecalho.h"
+
+1497231890 /home/edaugusto/Documentos/eduardoaugusto/btree.h
+	<iostream>
+	<sstream>
+	"Pagina.h"
+
+1497231890 /home/edaugusto/Documentos/eduardoaugusto/Pagina.h
+	"Cabecalho.h"
+
+1497231890 /home/edaugusto/Documentos/eduardoaugusto/Cabecalho.h
+	<string>
+	<type_traits>
+	<iostream>
+	"Serializable.h"
+
+1497231890 /home/edaugusto/Documentos/eduardoaugusto/Serializable.h
+	<string>
+	<cstring>
+	<fstream>
+
+1497231890 source:/home/edaugusto/Documentos/eduardoaugusto/Pagina.cpp
+	"Pagina.h"
+
+1497232001 source:/home/edaugusto/Documentos/eduardoaugusto/btree.cpp
+	"btree.h"
+
